@@ -18,10 +18,10 @@ $ yarn
 # nuxt-app run - http://localhost:3000, http://localhost:3000/layer1, http://localhost:3000/layer2
 $ yarn workspace @nuxt-layer-sample/nuxt-app run dev
 
-# layer1 run - http://localhost:3000/layer1
+# layer1 run - http://localhost:3001/layer1
 $ yarn workspace @nuxt-layer-sample/layer1 run dev
 
-# layer2 run - http://localhost:3000/layer2
+# layer2 run - http://localhost:3002/layer2
 $ yarn workspace @nuxt-layer-sample/layer2 run dev
 ```
 
